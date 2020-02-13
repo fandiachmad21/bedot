@@ -1,0 +1,2 @@
+# bedot
+To make happy
